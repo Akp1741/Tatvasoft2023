@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+![7](https://github.com/Akp1741/Tatvasoft2023/assets/110102619/86fca5ba-1dc8-4d86-83fd-db33ee15f020)# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -63,8 +63,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+![4](https://github.com/Akp1741/Tatvasoft2023/assets/110102619/57f35b46-32af-470f-abfc-d224431af811)
+![5](https://github.com/Akp1741/Tatvasoft2023/assets/110102619/7c9de59a-93d6-4799-b5fc-4e327cd9db64)
+![9](https://github.com/Akp1741/Tatvasoft2023/assets/110102619/42ed94e7-3b88-499e-817b-4305f1ec8831)
+![7](https://github.com/Akp1741/Tatvasoft2023/assets/110102619/d036815b-16ca-4937-aca7-014ca7f58996)
+
+
